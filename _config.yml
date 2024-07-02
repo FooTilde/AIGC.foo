@@ -3,10 +3,10 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: AIGC.foo
-subtitle: "Awesome AI-generated Content"
+title: AIGC
+subtitle: "AI-generated Content"
 description: "Humanity is entering a new era of intelligence characterized by the creation of large language model based artificial intelligence-generated content (AIGC) technology"
-keywords: "AIGC, GenAI, LLM, GPT-4o, Llama, Awesome AIGC"
+keywords: "AIGC, GenAI, LLM, GPT-4o, Llama, Awesome AIGC, Foo"
 author: Ethan Xia
 language: en
 timezone: "America/Los_Angeles"
