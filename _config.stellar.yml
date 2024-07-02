@@ -1,5 +1,6 @@
 article:
-  license: ' '
+  license:
+    enable: false
 
 footer:
   social:
